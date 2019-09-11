@@ -1,0 +1,14 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "javascripting": "javascripting"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascripting": "^2.6.3"
+  }
+}
