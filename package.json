@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "javascripting": "javascripting"
+    "javascripting": "javascripting",
+    "learnyounode": "learnyounode"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "javascripting": "^2.6.3"
+    "javascripting": "^2.6.3",
+    "learnyounode": "^3.5.10"
   }
 }

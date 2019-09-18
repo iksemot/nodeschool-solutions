@@ -9,6 +9,7 @@ https://nodeschool.io/index.html#workshopper-list
 | Module        | Description       | Progress |
 |---------------|-------------------|----------|
 | javascripting | JavaScript basics | 7/20     |
+| learnyounode  | Node.js basics    | 1/13     |
 
 ## Next modules
 
@@ -50,3 +51,9 @@ npm run javascripting
 touch javascripting/07-rounding-numbers.js
 npm run javascripting -- verify javascripting/07-rounding-numbers.js
 ```
+
+## TODO
+
+- Add export/import progress
+- Add "report" to update readme out of progress
+- Add VSC "run" profiles
